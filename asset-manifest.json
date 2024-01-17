@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26bb5798.css",
+    "main.js": "/static/js/main.c5523fe4.js",
+    "static/media/product-batavia_2-bottle.png": "./static/media/product-batavia_2-bottle.14949d40d0987f71c78b.png",
+    "static/media/bg-image_7.jpg": "./static/media/bg-image_7.de8fcbe9f28cef7aed0c.jpg",
+    "index.html": "/index.html",
+    "main.26bb5798.css.map": "/static/css/main.26bb5798.css.map",
+    "main.c5523fe4.js.map": "/static/js/main.c5523fe4.js.map"
+  },
+  "entrypoints": ["static/css/main.26bb5798.css", "static/js/main.c5523fe4.js"]
+}
